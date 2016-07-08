@@ -1,0 +1,2 @@
+# EasyActionSheet
+自定义View中嵌套tableView,使用起来和系统的ActionSheet很相似,方便易用,支持自定义ActionSheetCell的UI,本demo只提供文字加图片,cell的点击事件可以直接写在block回调方法里
